@@ -1,0 +1,63 @@
+---
+title: "Mental Health Calls during Covid-19"
+author: "Chyna Hui"
+date: "12/04/2022"
+output: pdf_document
+abstract: The Covid-19 pandemic resulted in goverments implementation of several lockdown mandates in Toronto since 2020. Although the lockdowns have ended, the consequences of this time on mental health persists. This paper uses data from Open Data Toronto to determine relationships between increasing mental health calls to police and access to mental health services in the city.
+bibliography: references.bib 
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(fig.pos = "!H", echo = FALSE, warning = FALSE, message = FALSE)
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(knitr)
+library(kableExtra)
+```
+```{r}
+### Loading cleaned data from R-script ###
+load('outputs/rda/clean_dat.rda')
+load('outputs/rda/clean_calls.rda')
+```
+
+# Introduction
+Mental Health crises are unfamiliar occurrences in Toronto and around the world. Many of the victims end up in confrontations with police, with lethal force against them. The Toronto Police record around 20,000 calls per year related to persons in crisis. The Covid-19 pandemic challenged the lives of Torontonians further, disrupting many aspects of daily life. Furthermore, the lockdown implementation for public health had crucial consequences to the mental well-being of many individuals. As a result of this, rates of attempted suicides, drug abuse, and domestic violence have increased significantly in the city. In this paper, I will discuss the number of mental health related calls made and its relation to the number of apprehensions by police. Additionally, other factors such as gender, age, and neighborhood will be analyzed to determine correlations to the number of received calls. This analysis will propose reasons based on this data for why an increase of mental health services are crucial to Toronto's well-being as a whole. 
+
+
+```{r cars}
+summary(cars)
+```
+## Literature 
+
+
+#Data
+The Toronto Police released dataset related to Mental Health cases in February 2022 as part of the Mental Health Act as well as 
+## Tables
+```{r pressure, echo=FALSE}
+
+```
+## Graphs 
+```{r apprehensionsfig, fig.cap="Mental Health Apprehensions before and after Covid-19", echo=FALSE}
+### Constructing Graph from Call data ###
+clean_calls ->
+ggplot(aes(x=factor('Year', level=c('2020')),
+           y='Number')) +
+  geom_bar(stat='identity') +
+  ggtitle("Dispatched Calls by Year") +
+  xlab('Year') +
+  ylab('Number of Dispatched Calls') +
+  scale_y_continuous()
+
+```
+
+## Discussion 
+
+#Limitations
+The data provided by the Toronto Police are thorough, however, also the impact of on the mental health of children from the pandemic is widely underrepresented. 
+
+## Conclusion
+The data collecting surrounding mental health related crisis and apprehensions in Toronto was sufficient for the police to finally take action. In 2022, a special mobile unit is dispatched, to potentially deescalate the situation without the presence of police force. These mobile units are headed by a harm-reduction worker, nurse, indigenous elder, or de-escalation expert. 
+
