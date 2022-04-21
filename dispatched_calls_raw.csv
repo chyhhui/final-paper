@@ -1,0 +1,134 @@
+﻿Index_,Year,Category,Unit,Command,Count_,ObjectId
+1,2020,Dispatched Calls,11 Division,West,33713,1
+2,2020,Dispatched Calls,12 Division,West,28542,2
+3,2020,Dispatched Calls,13 Division,East,24810,3
+4,2020,Dispatched Calls,14 Division,West,61571,4
+5,2020,Dispatched Calls,22 Division,West,39028,5
+6,2020,Dispatched Calls,23 Division,West,31611,6
+7,2020,Dispatched Calls,31 Division,West,33506,7
+8,2020,Dispatched Calls,32 Division,East,40493,8
+9,2020,Dispatched Calls,33 Division,East,28561,9
+10,2020,Dispatched Calls,41 Division,East,45215,10
+11,2020,Dispatched Calls,42 Division,East,36002,11
+12,2020,Dispatched Calls,43 Division,East,42097,12
+13,2020,Dispatched Calls,51 Division,West,56083,13
+14,2020,Dispatched Calls,52 Division,West,34344,14
+15,2020,Dispatched Calls,53 Division,East,30207,15
+16,2020,Dispatched Calls,54 & 55 Division,East,56778,16
+17,2020,Dispatched Calls,Other,N/A,8788,17
+18,2020,Dispatched Calls,PRIME,N/A,65069,18
+19,2020,Dispatched Calls,Parking,N/A,128904,19
+20,2019,Dispatched Calls,11 Division,West,29386,20
+21,2019,Dispatched Calls,12 Division,West,25812,21
+22,2019,Dispatched Calls,13 Division,East,23226,22
+23,2019,Dispatched Calls,14 Division,West,58519,23
+24,2019,Dispatched Calls,22 Division,West,35489,24
+25,2019,Dispatched Calls,23 Division,West,30906,25
+26,2019,Dispatched Calls,31 Division,West,31480,26
+27,2019,Dispatched Calls,32 Division,East,37434,27
+28,2019,Dispatched Calls,33 Division,East,27252,28
+29,2019,Dispatched Calls,41 Division,East,42046,29
+30,2019,Dispatched Calls,42 Division,East,34716,30
+31,2019,Dispatched Calls,43 Division,East,39882,31
+32,2019,Dispatched Calls,51 Division,West,54642,32
+33,2019,Dispatched Calls,52 Division,West,39540,33
+34,2019,Dispatched Calls,53 Division,East,27707,34
+35,2019,Dispatched Calls,54 & 55 Division,East,56922,35
+36,2019,Dispatched Calls,Other,N/A,5904,36
+37,2019,Dispatched Calls,PRIME,N/A,77551,37
+38,2019,Dispatched Calls,Parking,N/A,172114,38
+39,2018,Dispatched Calls,11 Division,West,29142,39
+40,2018,Dispatched Calls,12 Division,West,25286,40
+41,2018,Dispatched Calls,13 Division,East,24031,41
+42,2018,Dispatched Calls,14 Division,West,54810,42
+43,2018,Dispatched Calls,22 Division,West,35078,43
+44,2018,Dispatched Calls,23 Division,West,30231,44
+45,2018,Dispatched Calls,31 Division,West,30878,45
+46,2018,Dispatched Calls,32 Division,East,36577,46
+47,2018,Dispatched Calls,33 Division,East,26992,47
+48,2018,Dispatched Calls,41 Division,East,37251,48
+49,2018,Dispatched Calls,42 Division,East,33555,49
+50,2018,Dispatched Calls,43 Division,East,38808,50
+51,2018,Dispatched Calls,51 Division,West,50566,51
+52,2018,Dispatched Calls,52 Division,West,37792,52
+53,2018,Dispatched Calls,53 Division,East,27399,53
+54,2018,Dispatched Calls,54 & 55 Division,East,56300,54
+55,2018,Dispatched Calls,Other,N/A,6529,55
+56,2018,Dispatched Calls,PRIME,N/A,81478,56
+57,2018,Dispatched Calls,Parking,N/A,152067,57
+58,2017,Dispatched Calls,11 Division,Central,31725,58
+59,2017,Dispatched Calls,12 Division,Central,28532,59
+60,2017,Dispatched Calls,13 Division,Central,26482,60
+61,2017,Dispatched Calls,14 Division,Central,55740,61
+62,2017,Dispatched Calls,22 Division,Area,38616,62
+63,2017,Dispatched Calls,23 Division,Area,33494,63
+64,2017,Dispatched Calls,31 Division,Area,34818,64
+65,2017,Dispatched Calls,32 Division,Area,38099,65
+66,2017,Dispatched Calls,33 Division,Area,31932,66
+67,2017,Dispatched Calls,41 Division,Area,39560,67
+68,2017,Dispatched Calls,42 Division,Area,33639,68
+69,2017,Dispatched Calls,43 Division,Area,40157,69
+70,2017,Dispatched Calls,51 Division,Central,51743,70
+71,2017,Dispatched Calls,52 Division,Central,37918,71
+72,2017,Dispatched Calls,53 Division,Central,30142,72
+73,2017,Dispatched Calls,54 & 55 Division,Central,63230,73
+74,2017,Dispatched Calls,Other,N/A,1645,74
+75,2017,Dispatched Calls,PRIME,N/A,71263,75
+76,2017,Dispatched Calls,Parking,N/A,152837,76
+77,2016,Dispatched Calls,11 Division,Central,33087,77
+78,2016,Dispatched Calls,12 Division,Central,30676,78
+79,2016,Dispatched Calls,13 Division,Central,27869,79
+80,2016,Dispatched Calls,14 Division,Central,57155,80
+81,2016,Dispatched Calls,22 Division,Area,40427,81
+82,2016,Dispatched Calls,23 Division,Area,35291,82
+83,2016,Dispatched Calls,31 Division,Area,36944,83
+84,2016,Dispatched Calls,32 Division,Area,38546,84
+85,2016,Dispatched Calls,33 Division,Area,32056,85
+86,2016,Dispatched Calls,41 Division,Area,41227,86
+87,2016,Dispatched Calls,42 Division,Area,35954,87
+88,2016,Dispatched Calls,43 Division,Area,37689,88
+89,2016,Dispatched Calls,51 Division,Central,52393,89
+90,2016,Dispatched Calls,52 Division,Central,38118,90
+91,2016,Dispatched Calls,53 Division,Central,31173,91
+92,2016,Dispatched Calls,54 & 55 Division,Central,62879,92
+93,2016,Dispatched Calls,Other,N/A,967,93
+94,2016,Dispatched Calls,PRIME,N/A,65242,94
+95,2016,Dispatched Calls,Parking,N/A,151023,95
+96,2015,Dispatched Calls,11 Division,Central,34741,96
+97,2015,Dispatched Calls,12 Division,Central,30765,97
+98,2015,Dispatched Calls,13 Division,Central,26771,98
+99,2015,Dispatched Calls,14 Division,Central,54244,99
+100,2015,Dispatched Calls,22 Division,Area,41699,100
+101,2015,Dispatched Calls,23 Division,Area,32702,101
+102,2015,Dispatched Calls,31 Division,Area,33530,102
+103,2015,Dispatched Calls,32 Division,Area,40822,103
+104,2015,Dispatched Calls,33 Division,Area,30828,104
+105,2015,Dispatched Calls,41 Division,Area,39820,105
+106,2015,Dispatched Calls,42 Division,Area,36760,106
+107,2015,Dispatched Calls,43 Division,Area,36203,107
+108,2015,Dispatched Calls,51 Division,Central,48163,108
+109,2015,Dispatched Calls,52 Division,Central,36361,109
+110,2015,Dispatched Calls,53 Division,Central,30308,110
+111,2015,Dispatched Calls,54 & 55 Division,Central,59971,111
+112,2015,Dispatched Calls,Other,N/A,1438,112
+113,2015,Dispatched Calls,PRIME,N/A,62592,113
+114,2015,Dispatched Calls,Parking,N/A,140235,114
+115,2014,Dispatched Calls,11 Division,Central,33639,115
+116,2014,Dispatched Calls,12 Division,Central,31949,116
+117,2014,Dispatched Calls,13 Division,Central,27813,117
+118,2014,Dispatched Calls,14 Division,Central,53812,118
+119,2014,Dispatched Calls,22 Division,Area,38612,119
+120,2014,Dispatched Calls,23 Division,Area,31829,120
+121,2014,Dispatched Calls,31 Division,Area,33420,121
+122,2014,Dispatched Calls,32 Division,Area,39103,122
+123,2014,Dispatched Calls,33 Division,Area,29220,123
+124,2014,Dispatched Calls,41 Division,Area,38425,124
+125,2014,Dispatched Calls,42 Division,Area,33101,125
+126,2014,Dispatched Calls,43 Division,Area,37185,126
+127,2014,Dispatched Calls,51 Division,Central,46670,127
+128,2014,Dispatched Calls,52 Division,Central,34570,128
+129,2014,Dispatched Calls,53 Division,Central,31633,129
+130,2014,Dispatched Calls,54 & 55 Division,Central,61698,130
+131,2014,Dispatched Calls,Other,N/A,1082,131
+132,2014,Dispatched Calls,PRIME,N/A,63089,132
+133,2014,Dispatched Calls,Parking,N/A,135308,133
